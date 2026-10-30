@@ -1,0 +1,11 @@
+IMAGENS DA ÓTICA PRIME GLASS
+Adicione suas fotos nesta pasta, com nomes em letras minúsculas:
+otica1.webp — destaque principal (vertical, recomendado 1200x1500)
+otica2.webp — história/fundadora (vertical, recomendado 1000x1300)
+otica3.webp — coleção: óculos de grau
+ otica4.webp — coleção: óculos de sol
+ otica5.webp — coleção: óculos de grau
+ otica6.webp — coleção: óculos de sol
+Também aceita .jpg, .png e .jpeg automaticamente. Use apenas um formato por número.
+As ilustrações de apoio desaparecem quando suas fotos são adicionadas. São feitas em CSS, sem fotos externas.
+Edite títulos/categorias da coleção em src/main.tsx para corresponder ao estoque real.
